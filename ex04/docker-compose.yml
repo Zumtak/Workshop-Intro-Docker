@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  # web service
+  web:
+    # specify build
+
+    # expose port
+
+  # redis service
+  redis:
+    # pull the image (redis alpine)
